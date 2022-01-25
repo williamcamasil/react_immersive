@@ -58,17 +58,14 @@ export default HomePage
 
 
 
-
-
-
-
 ### Links usados
 
 - [projeto com Next](https://nextjs.org/docs/getting-started) Instruções de como criar uma página inicial.
+  - [custom app](https://nextjs.org/docs/advanced-features/custom-app)
 - [figma do projeto](https://www.figma.com/file/X5kVg1hNCajiV73ah7iyPz/Imers%C3%A3o-React---Aluracord---Matrix?node-id=0%3A1)
 - [styled jsx (css)](https://github.com/vercel/styled-jsx)
 - [código pronto](https://gist.github.com/omariosouto/983909257ff37d47c6bc31dd286f6caa)
 - [collors](https://coolors.co/)
 - [skynexui](https://github.com/skynexui/components) components storybook
-- [vercel](https://vercel.com/)
+- [vercel](https://vercel.com/) para publicação da aplicação na internet
 
