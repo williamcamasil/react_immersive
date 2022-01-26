@@ -5,6 +5,9 @@
 ### Códigos usados
 
 ````
+# Rodar projeto em dev
+yarn dev
+
 # Criação do package.json
 yarn init -y
 
@@ -60,11 +63,13 @@ export default HomePage
 
 ### Links usados
 
+- [projeto original](https://github.com/alura-challenges/aluracord-matrix/tree/aula03/pages)
 - [projeto com Next](https://nextjs.org/docs/getting-started) Instruções de como criar uma página inicial.
   - [custom app](https://nextjs.org/docs/advanced-features/custom-app)
 - [figma do projeto](https://www.figma.com/file/X5kVg1hNCajiV73ah7iyPz/Imers%C3%A3o-React---Aluracord---Matrix?node-id=0%3A1)
 - [styled jsx (css)](https://github.com/vercel/styled-jsx)
-- [código pronto](https://gist.github.com/omariosouto/983909257ff37d47c6bc31dd286f6caa)
+- [código pronto index](https://gist.github.com/omariosouto/983909257ff37d47c6bc31dd286f6caa)
+- [código pronto chat](https://gist.github.com/omariosouto/8517c711f36770b73371185e4aed92d6)
 - [collors](https://coolors.co/)
 - [skynexui](https://github.com/skynexui/components) components storybook
 - [vercel](https://vercel.com/) para publicação da aplicação na internet
