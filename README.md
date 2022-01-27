@@ -22,6 +22,9 @@ yarn add @skynexui/components
 
 # Ignorar node quando subir alterações para branch pela 1° vez
 npx gitignore node
+
+# Integrando o supabase ao projeto
+yarn add @supabase/supabase-js
 ````
 
 
@@ -70,7 +73,16 @@ export default HomePage
 - [styled jsx (css)](https://github.com/vercel/styled-jsx)
 - [código pronto index](https://gist.github.com/omariosouto/983909257ff37d47c6bc31dd286f6caa)
 - [código pronto chat](https://gist.github.com/omariosouto/8517c711f36770b73371185e4aed92d6)
+  - [código aula 4](https://github.com/alura-challenges/aluracord-matrix/blob/aula04/pages/chat.js)
+
 - [collors](https://coolors.co/)
 - [skynexui](https://github.com/skynexui/components) components storybook
 - [vercel](https://vercel.com/) para publicação da aplicação na internet
+- [subabase - ambiente para criação de backend](https://supabase.com/) (acesso com github)
+  - [github supabase](https://github.com/supabase/supabase-js)
+
+
+
+
+
 
