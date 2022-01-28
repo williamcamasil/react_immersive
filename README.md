@@ -74,13 +74,14 @@ export default HomePage
 - [código pronto index](https://gist.github.com/omariosouto/983909257ff37d47c6bc31dd286f6caa)
 - [código pronto chat](https://gist.github.com/omariosouto/8517c711f36770b73371185e4aed92d6)
   - [código aula 4](https://github.com/alura-challenges/aluracord-matrix/blob/aula04/pages/chat.js)
-
+  - [código aula 5](https://github.com/alura-challenges/aluracord-matrix/blob/aula05/pages/chat.js)
+  - [componente sendsticker](https://github.com/alura-challenges/aluracord-matrix/blob/aula05/src/components/ButtonSendSticker.js)
+  
 - [collors](https://coolors.co/)
 - [skynexui](https://github.com/skynexui/components) components storybook
 - [vercel](https://vercel.com/) para publicação da aplicação na internet
 - [subabase - ambiente para criação de backend](https://supabase.com/) (acesso com github)
   - [github supabase](https://github.com/supabase/supabase-js)
-
 
 
 
